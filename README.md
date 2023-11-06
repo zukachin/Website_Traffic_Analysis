@@ -13,6 +13,7 @@ This Python script reads data from a CSV file containing website visitor informa
 
 - Python 3.x
 - Libraries: `csv`, `matplotlib`
+- Dataset:"https://www.kaggle.com/datasets/bobnau/daily-website-visitors"
 
 ### Installation
 
@@ -22,21 +23,15 @@ This Python script reads data from a CSV file containing website visitor informa
     $ git clone https://github.com/zukachin/Website_Traffic_Analysis.git
     ```
 
-2. Navigate to the project directory:
+2. Run the script:
 
     ```bash
-    $ cd website-metrics-analyzer
-    ```
-
-3. Run the script:
-
-    ```bash
-    $ python website_metrics.py
+    $ python Website_Traffic_Analysis.ipynb
     ```
 
 ## Usage
 
-Run the `website_metrics.py` script to analyze the website metrics using the provided CSV data.
+Run the `Website_Traffic_Analysis.ipynb` script to analyze the website metrics using the provided CSV data.
 
 ## Data and Metrics
 
