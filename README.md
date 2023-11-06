@@ -19,7 +19,7 @@ This Python script reads data from a CSV file containing website visitor informa
 1. Clone the repository:
 
     ```bash
-    $ git clone https://github.com/yourusername/website-metrics-analyzer.git
+    $ git clone https://github.com/zukachin/Website_Traffic_Analysis.git
     ```
 
 2. Navigate to the project directory:
